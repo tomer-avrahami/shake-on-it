@@ -1,0 +1,229 @@
+pi41 ip (master, no ACK):
+192.168.1.96
+pi40 ip (Slave, with Ack):
+192.168.1.78
+pi42 (Eve):
+192.168.1.?
+user: pi
+Password: CsiCsi123
+
+
+If you want the device to ACK with packet-- > change ACK_EN to 1 at:
+nexmoncsita/nexmon_csi/src/csi_extractor.c
+Should be changed only at Slave.
+
+root@pizero-1:/home/pi/nexmon/nexmon/buildtools/mpfr-3.1.4# history
+	sudo su
+	apt-get update
+    apt-get upgrade
+	apt install raspberrypi-kernel-headers git libgmp3-dev gawk qpdf bison flex make
+	if kernel 5.10:
+	    sudo apt install python-is-python2
+	#Missing At doc:
+	apt-get install autoconf libtool texinfo 
+	#if not exist: /usr/lib/arm-linux-gnueabihf/libisl.so.10
+    cd nexmon/buildtools/isl-0.10/
+    ./configure
+	make
+	make install
+	ln -s /usr/local/lib/libisl.so /usr/lib/arm-linux-gnueabihf/libisl.so.10
+	ls /usr/lib/arm-linux-gnueabihf/libmpfr.so.4
+	ls /usr/lib/arm-linux-gnueabihf/libmpfr.so*
+	cd ../mpfr-3.1.4/
+	autoreconf -f -i
+	./configure
+	make
+	make install
+	ln -s /usr/local/lib/libmpfr.so /usr/lib/arm-linux-gnueabihf/libmpfr.so.4
+
+	cd nexmon
+	source setup_env.sh
+	make
+#install nexutils:
+	cd utilities/nexutil/
+	make
+	make install
+
+
+	#install driver (needed every time after reboot for now):
+	sudo su
+	cd ~pi/nexmon/nexmon
+	source setup_env.sh
+	cd patches/bcm43455c0/7_45_189/nexmon_csi
+	make install-firmware
+	ifconfig wlan0 up	
+	./makecsiparams -c 64/20 -C 1 -N 1 -m F8:E9:03:0F:84:8C
+	nexutil -Iwlan0 -s500 -b -l34 -vBhABEQAAAQAkGB2/dzEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+	iw phy `iw dev wlan0 info | gawk '/wiphy/ {printf "phy" $2}'` interface add mon0 type monitor
+	ifconfig mon0 up
+	tcpdump -i wlan0 dst port 5500
+	
+	
+	cd ~pi/nexmon/nexmon; pkill wpa_supplicant; cd ~pi/nexmon/nexmon; source setup_env.sh ;  cd patches/bcm43455c0/7_45_189/nexmon_csi; make install-firmware
+	
+	nexutil -Iwlan0 -s500 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+	#36/80
+	nexutil -Iwlan0 -s500 -b -l34 -v KuABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+	iw phy `iw dev wlan0 info | gawk '/wiphy/ {printf "phy" $2}'` interface add mon0 type monitor ; ifconfig mon0 up
+	
+	nexutil -Iwlan0 -s510 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+	nexutil -Iwlan0 -s510 -b -l34 -v KuABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+	nexutil -Iwlan0 -s510 -b -l34 -v m+IBEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+	
+	
+	tcpdump -i wlan0 dst port 5500
+
+
+  * Make sure channel is OK:
+  nexutil -Iwlan0 -k
+  
+  
+  Create pcap file:
+   tcpdump -c 5000 -w 0001.pcap -i wlan0 dst port 5500
+  
+	
+
+./nexmon/nexmon/patches/bcm43455c0/7_45_189/nexmon_csi/utils/makecsiparams/makecsiparams -c 64/40 -C 1 -N 1 -m F8:E9:03:0F:84:8C
+PtkBEQAAAQD46QMPhIwAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+./makecsiparams -c 64/20 -C 1 -N 1 -m F8:E9:03:0F:84:8C
+QNABEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+//Galaxy S9:
+~pi/nexmon/nexmon/patches/bcm43455c0/7_45_189/nexmon_csi/utils/makecsiparams/makecsiparams -c 64/40 -C 1 -N 1 -m 24:18:1D:BF:77:31
+PtkBEQAAAQAkGB2/dzEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+./makecsiparams -c 6/20 -C 1 -N 1 -m 24:18:1D:BF:77:31
+BhABEQAAAQAkGB2/dzEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+~pi/nexmon/nexmon/patches/bcm43455c0/7_45_189/nexmon_csi/utils/makecsiparams/makecsiparams -c 64/40 -C 1 -N 1 -m 24:18:1D:BF:77:31
+
+
+~pi/nexmon/nexmon/patches/bcm43455c0/7_45_189/nexmon_csi/utils/makecsiparams/makecsiparams -c 6/20 -C 1 -N 1 -m 00:11:22:33:44:55
+nexutil -Iwlan0 -s500 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+nexutil -Iwlan0 -s510 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+~pi/nexmon/nexmon/patches/bcm43455c0/7_45_189/nexmon_csi/utils/makecsiparams/makecsiparams -c 157/80 -C 1 -N 1 -m 00:11:22:33:44:55
+m+IBEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+36/40
+nexutil -Iwlan0 -s500 -b -l34 -v JtgBEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+36/80
+nexutil -Iwlan0 -s500 -b -l34 -v KuABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+Inject:
+tcpdump -c 1200 -w ~pi/CSI_Extraction/csi_dumps/210412_chamber.pi41.master.d1.0m_2.4GHz.c6.b20Mhz.n1200.dt0.1_p1.pcap -i wlan0 dst port 5500
+tcpdump -c 1200 -w ~pi/csi_dumps/210412_chamber.pi40.slave.d1.0m_2.4GHz.c6.b20Mhz.n1200.dt0.1_p1.pcap -i wlan0 dst port 5500
+
+
+sleep 300;for i in {1..1300}; do nexutil -Iwlan0 -s510 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==;date; sleep 0.1; done
+sleep 20;for i in {1..1000}; do nexutil -Iwlan0 -s510 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==;date; sleep 0.3; done
+
+Wireshark:
+run as root!
+wlan.addr==24:18:1D:BF:77:31
+wlan.addr == 00:11:22:33:44:55
+
+ifconfig wlx00c0ca987c53 down
+iwconfig wlx00c0ca987c53 mode managed
+ifconfig wlx00c0ca987c53 up
+iwconfig wlx00c0ca987c53 channel 06
+//Replace xx with the number of the channel for the wifi you're trying to connect.
+ifconfig wlx00c0ca987c53 down
+iwconfig wlx00c0ca987c53 mode monitor
+ifconfig wlx00c0ca987c53 up
+
+
+ifconfig wlx00c0ca987c53 down;iwconfig wlx00c0ca987c53 mode managed;ifconfig wlx00c0ca987c53 up;iwconfig wlx00c0ca987c53 channel 06;ifconfig wlx00c0ca987c53 down ;iwconfig wlx00c0ca987c53 mode monitor;ifconfig wlx00c0ca987c53 up;
+
+
+//Master:
+tcpdump -c 1200 -w ~pi/CSI_Extraction/csi_dumps/210412.chamber.pi41.master.d1.0m.F2.4GHz.c6.b20Mhz.dt0.1.n1200p1.pcap -i wlan0 dst port 5500 &
+//Slave:
+tcpdump -c 1200 -w ~pi/CSI_Extraction/csi_dumps/210412.chamber.pi40.slave.d1.0m.F2.4GHz.c6.b20Mhz.dt0.1.n1200p1.pcap -i wlan0 dst port 5500
+
+
+
+tcpdump -c 1200 -w ~pi/CSI_Extraction/csi_dumps/indoor.pi41.master.d2.0m_2.4GHz.c6.b20Mhz.n200p6.pcap -i wlan0 dst port 5500 &
+//Restart wireshark
+for i in {1..250}; do nexutil -Iwlan0 -s510 -b -l34 -v BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==;date; sleep 0.5; done
+
+
+
+/////////////////////////////////////
+History:
+ifconfig wlx00c0ca987c53 down ; iwconfig wlx00c0ca987c53 mode managed;  ifconfig wlx00c0ca987c53 up; 
+iwconfig wlx00c0ca987c53 channel xx
+
+//Replace xx with the number of the channel for the wifi you're trying to connect.
+
+ifconfig wlx00c0ca987c53 down; iwconfig wlx00c0ca987c53 mode monitor; ifconfig wlx00c0ca987c53 up
+
+
+//Access pi from USB:
+https://desertbot.io/blog/headless-pi-zero-ssh-access-over-usb-windows
+
+//MCS index:
+http://ecee.colorado.edu/~liue/teaching/comm_standards/2015S_IEEE_802.11n/Webpages/constellation.html
+
+
+
+
+pythonCsiTa:
+
+From any host -  operate pyro nameserver (with its own IP):
+pyro5-ns -n 192.168.1.66
+
+Alice:
+python3 ~pi/CSI_Extraction/nexmoncsita/software/nexmonta_run.py --alice_mode
+
+Bob:
+python3 ~pi/CSI_Extraction/nexmoncsita/software/nexmonta_run.py --bob_mode
+
+Eve:
+python3 ~pi/CSI_Extraction/nexmoncsita/software/nexmonta_run.py --eve_mode
+
+Controller:
+
+
+6/20:
+BhABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+~pi/nexmon/nexmon/patches/bcm43455c0/7_45_189/nexmon_csi/utils/makecsiparams/makecsiparams -c 52/160 -C 1 -N 1 -m 00:11:22:33:44:55
+MuwBEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+36/80:
+nexutil -Iwlan0 -s500 -b -l34 -v KuABEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+nexutil -Iwlan0 -s500 -b -l34 -v MuwBEQAAAQAAESIzRFUAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+
+
+
+802.11AC protocol:
+https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_application/application_notes/1ma192/1MA192_7e_80211ac_technology.pdf
+
+VHT-LTF, HVT data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

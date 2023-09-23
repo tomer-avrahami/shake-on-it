@@ -1,0 +1,26 @@
+cd ~pi/nexmon/nexmon
+source setup_env.sh
+cd patches/bcm43455c0/7_45_189/nexmon_csi
+make install-firmware
+ifconfig wlan0 up	
+nexutil -Iwlan0 -s500 -b -l34 -vBhABEQAAAQAkGB2/dzEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+iw phy `iw dev wlan0 info | gawk '/wiphy/ {printf "phy" $2}'` interface add mon0 type monitor
+ifconfig mon0 up
+tcpdump -i wlan0 dst port 5500
+
+
+
+cd ~pi/nexmon/nexmon; pkill wpa_supplicant; cd ~pi/nexmon/nexmon; source setup_env.sh ;  cd patches/bcm43455c0/7_45_189/nexmon_csi; make install-firmware
+iw phy `iw dev wlan0 info | gawk '/wiphy/ {printf "phy" $2}'` interface add mon0 type monitor ; ifconfig mon0 up
+
+From any host -  operate pyro nameserver (with its own IP):
+pyro5-ns -n 192.168.1.66
+
+Alice:
+python3 ~pi/CSI_Extraction/nexmoncsita/software/nexmonta_run.py --alice_mode
+
+Bob:
+python3 ~pi/CSI_Extraction/nexmoncsita/software/nexmonta_run.py --bob_mode
+
+Eve:
+python3 ~pi/CSI_Extraction/nexmoncsita/software/nexmonta_run.py --eve_mode

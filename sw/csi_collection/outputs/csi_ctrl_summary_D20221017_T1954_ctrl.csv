@@ -1,0 +1,4 @@
+,alice_x,alice_y,bob_x,bob_y,eve_x,eve_y,alice_start_delay,bob_resp_delay,rotating_member,wifi_ch,wifi_bw,bob_eve_rx_timeout,failed_attempts_limit,req_num_packets,alice_hostname,alice_ip,alice_filename,alice_chan_spec,bob_hostname,bob_ip,bob_filename,bob_chan_spec,num_packets,failed_attempts_total,collect_duration,start_time,start_collect_time,end_time
+0,0,0,0,0,0,0,0.08,0.06,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1954_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1954_bob.pcap,"chanspec: 0x1006, 6
+",10,1,2.8132567405700684,D20221017_T1954,D20221017_T1955,D20221017_T1955

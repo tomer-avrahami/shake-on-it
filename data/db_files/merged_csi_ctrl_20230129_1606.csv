@@ -1,0 +1,692 @@
+,Unnamed: 0,alice_x,alice_y,bob_x,bob_y,eve_x,eve_y,alice_start_delay,bob_resp_delay,rotating_member,wifi_ch,wifi_bw,bob_eve_rx_timeout,failed_attempts_limit,req_num_packets,alice_hostname,alice_ip,alice_filename,alice_chan_spec,bob_hostname,bob_ip,bob_filename,bob_chan_spec,num_packets,failed_attempts_total,collect_duration,start_time,start_collect_time,end_time,total_duration,eve_hostname,eve_ip,eve_filename,eve_chan_spec,alice_z,bob_z,eve_z
+0,0,0,0,0,0,0,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1943_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1943_bob.pcap,"chanspec: 0x1006, 6
+",10,3,3.325597525,D20221017_T1943,D20221017_T1943,D20221017_T1943,,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1953_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1953_bob.pcap,"chanspec: 0x1006, 6
+",10,2,3.045197964,D20221017_T1953,D20221017_T1954,D20221017_T1954,,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1954_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1954_bob.pcap,"chanspec: 0x1006, 6
+",10,1,2.813256741,D20221017_T1954,D20221017_T1955,D20221017_T1955,,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1957_alice.pcap,"chanspec: 0xd93e, 64u
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1957_bob.pcap,"chanspec: 0xd93e, 64u
+",10,0,2.523892164,D20221017_T1957,D20221017_T1957,D20221017_T1957,,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.01,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1959_alice.pcap,"chanspec: 0xd93e, 64u
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T1959_bob.pcap,"chanspec: 0xd93e, 64u
+",10,0,2.016349792,D20221017_T1959,D20221017_T2000,D20221017_T2000,,,,,,,,
+0,0,0,0,0,0,0,0,0.008,0.005,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2002_alice.pcap,"chanspec: 0xd93e, 64u
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2002_bob.pcap,"chanspec: 0xd93e, 64u
+",0,0,20.04835033,D20221017_T2002,D20221017_T2002,D20221017_T2002,,,,,,,,
+0,0,0,0,0,0,0,0,0.05,0.005,bob,64,40,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2003_alice.pcap,"chanspec: 0xd93e, 64u
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2003_bob.pcap,"chanspec: 0xd93e, 64u
+",10,0,1.943664312,D20221017_T2003,D20221017_T2003,D20221017_T2004,,,,,,,,
+0,0,0,0,0,0,0,0,0.05,0.005,bob,64,40,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2005_alice.pcap,"chanspec: 0xd93e, 64u
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2005_bob.pcap,"chanspec: 0xd93e, 64u
+",9,6,17.57392216,D20221017_T2005,D20221017_T2006,D20221017_T2006,,,,,,,,
+0,0,0,0,0,0,0,0,0.05,0.005,bob,64,40,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2010_alice.pcap,"chanspec: 0xd93e, 64u
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2010_bob.pcap,"chanspec: 0xd93e, 64u
+",0,0,1.749731302,D20221017_T2010,D20221017_T2010,D20221017_T2011,15.39778805,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.01,bob,36,40,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2012_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2012_bob.pcap,"chanspec: 0xd826, 36l
+",10,0,2.358675241,D20221017_T2012,D20221017_T2013,D20221017_T2013,15.91355205,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,36,40,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2031_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2031_bob.pcap,"chanspec: 0xd826, 36l
+",10,0,2.621880293,D20221017_T2031,D20221017_T2031,D20221017_T2031,16.10163903,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,36,40,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2033_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2033_bob.pcap,"chanspec: 0xd826, 36l
+",10,1,2.839308262,D20221017_T2033,D20221017_T2033,D20221017_T2033,16.37183547,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,36,40,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2035_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2035_bob.pcap,"chanspec: 0xd826, 36l
+",10,12,5.573574543,D20221017_T2035,D20221017_T2035,D20221017_T2035,19.06965446,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2042_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2042_bob.pcap,"chanspec: 0x1006, 6
+",10,13,5.940032482,D20221017_T2042,D20221017_T2042,D20221017_T2042,19.42609143,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2043_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2043_bob.pcap,"chanspec: 0x1006, 6
+",10,0,2.722143173,D20221017_T2043,D20221017_T2044,D20221017_T2044,16.25628519,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,36,40,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2044_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2044_bob.pcap,"chanspec: 0xd826, 36l
+",10,5,3.808244705,D20221017_T2044,D20221017_T2045,D20221017_T2045,17.34852052,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,157,80,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2045_alice.pcap,"chanspec: 0xe29b, 157/80
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2045_bob.pcap,"chanspec: 0xe29b, 157/80
+",0,0,2.714720964,D20221017_T2045,D20221017_T2045,D20221017_T2045,16.17423463,,,,,,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,36,80,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2048_alice.pcap,"chanspec: 0xe02a, 36/80
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2048_bob.pcap,"chanspec: 0xe02a, 36/80
+",0,0,2.761381388,D20221017_T2048,D20221017_T2048,D20221017_T2048,23.07283139,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2048_eve.pcap,"chanspec: 0xe02a, 36/80
+",,,
+0,0,0,0,0,0,0,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2049_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2049_bob.pcap,"chanspec: 0x1006, 6
+",10,3,3.664044857,D20221017_T2049,D20221017_T2049,D20221017_T2049,23.93668771,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2049_eve.pcap,"chanspec: 0x1006, 6
+",,,
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2145_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2145_bob.pcap,"chanspec: 0x1006, 6
+",10,2,3.364781141,D20221017_T2145,D20221017_T2146,D20221017_T2146,23.65912533,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2145_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2150_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2150_bob.pcap,"chanspec: 0x1006, 6
+",10,1,3.011704922,D20221017_T2150,D20221017_T2150,D20221017_T2150,23.27580261,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2150_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2151_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2151_bob.pcap,"chanspec: 0x1006, 6
+",10,1,3.058047533,D20221017_T2151,D20221017_T2152,D20221017_T2152,23.33844805,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2151_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2154_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2154_bob.pcap,"chanspec: 0x1006, 6
+",10,1,3.118327618,D20221017_T2154,D20221017_T2154,D20221017_T2154,23.40553498,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2154_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2155_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2155_bob.pcap,"chanspec: 0x1006, 6
+",10,2,3.324206114,D20221017_T2155,D20221017_T2155,D20221017_T2155,23.78927946,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2155_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2156_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2156_bob.pcap,"chanspec: 0x1006, 6
+",10,3,3.700636625,D20221017_T2156,D20221017_T2156,D20221017_T2157,23.99644995,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2156_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.04,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2200_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2200_bob.pcap,"chanspec: 0x1006, 6
+",10,0,1.981246233,D20221017_T2200,D20221017_T2200,D20221017_T2200,22.2632637,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2200_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.02,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2253_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2253_bob.pcap,"chanspec: 0x1006, 6
+",5,5,10.09344506,D20221017_T2253,D20221017_T2253,D20221017_T2254,30.41650033,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2253_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2254_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2254_bob.pcap,"chanspec: 0x1006, 6
+",10,8,3.44400835,D20221017_T2254,D20221017_T2254,D20221017_T2254,23.82294583,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2254_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2319_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2319_bob.pcap,"chanspec: 0x1006, 6
+",0,0,33.55124521,D20221017_T2319,D20221017_T2319,D20221017_T2320,53.95954704,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2319_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2325_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2325_bob.pcap,"chanspec: 0x1006, 6
+",0,0,14.84267282,D20221017_T2325,D20221017_T2326,D20221017_T2326,35.22360492,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2325_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2328_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2328_bob.pcap,"chanspec: 0x1006, 6
+",0,0,7.949964046,D20221017_T2328,D20221017_T2328,D20221017_T2328,28.47055197,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2328_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2331_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2331_bob.pcap,"chanspec: 0x1006, 6
+",0,0,0.278447151,D20221017_T2331,D20221017_T2331,D20221017_T2331,20.54293847,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2331_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2332_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2332_bob.pcap,"chanspec: 0x1006, 6
+",0,0,0.207761765,D20221017_T2332,D20221017_T2333,D20221017_T2333,20.56679678,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2332_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2334_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2334_bob.pcap,"chanspec: 0x1006, 6
+",6,49,34.08800697,D20221017_T2334,D20221017_T2334,D20221017_T2335,47.68944383,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2336_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2336_bob.pcap,"chanspec: 0x1006, 6
+",1,5,4.830538034,D20221017_T2336,D20221017_T2336,D20221017_T2337,18.46253967,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2338_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2338_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.248230219,D20221017_T2338,D20221017_T2338,D20221017_T2338,16.76385188,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2347_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2347_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.283730745,D20221017_T2347,D20221017_T2347,D20221017_T2347,17.13166523,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2350_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2350_bob.pcap,"chanspec: 0x1006, 6
+",0,0,2.829739809,D20221017_T2350,D20221017_T2350,D20221017_T2350,16.3415699,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2353_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221017_T2353_bob.pcap,"chanspec: 0x1006, 6
+",2,7,5.190257311,D20221017_T2353,D20221017_T2353,D20221017_T2353,18.83820343,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,wlt-lap-137,127.0.0.1,C:\Master_projects\CSI_Extraction\nexmoncsita\software\outputs\csi_ctrl_summary_D20221018_T0015_alice.pcap,"get config
+",wlt-lap-137,127.0.0.1,C:\Master_projects\CSI_Extraction\nexmoncsita\software\outputs\csi_ctrl_summary_D20221018_T0015_bob.pcap,"get config
+",0,0,2.035616398,D20221018_T0015,D20221018_T0015,D20221018_T0015,11.22984195,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,wlt-lap-137,127.0.0.1,C:\Master_projects\CSI_Extraction\nexmoncsita\software\outputs\csi_ctrl_summary_D20221018_T0016_alice.pcap,"get config
+",wlt-lap-137,127.0.0.1,C:\Master_projects\CSI_Extraction\nexmoncsita\software\outputs\csi_ctrl_summary_D20221018_T0016_bob.pcap,"get config
+",3,15,5.345121861,D20221018_T0016,D20221018_T0016,D20221018_T0016,14.54984093,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,wlt-lap-137,127.0.0.1,C:\Master_projects\CSI_Extraction\nexmoncsita\software\outputs\csi_ctrl_summary_D20221018_T0019_alice.pcap,"get config
+",wlt-lap-137,127.0.0.1,C:\Master_projects\CSI_Extraction\nexmoncsita\software\outputs\csi_ctrl_summary_D20221018_T0019_bob.pcap,"get config
+",0,0,404.7205992,D20221018_T0019,D20221018_T0020,D20221018_T0026,413.9705045,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0034_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0034_bob.pcap,"chanspec: 0x1006, 6
+",0,0,0.178011894,D20221018_T0034,D20221018_T0034,D20221018_T0034,13.65145206,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0036_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0036_bob.pcap,"chanspec: 0x1006, 6
+",0,0,2.850039482,D20221018_T0036,D20221018_T0036,D20221018_T0036,16.28703094,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0041_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0041_bob.pcap,"chanspec: 0x1006, 6
+",0,0,208.219449,D20221018_T0041,D20221018_T0041,D20221018_T0045,221.6549337,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0045_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0045_bob.pcap,"chanspec: 0x1006, 6
+",1,0,0.250228643,D20221018_T0045,D20221018_T0045,D20221018_T0045,13.72259688,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0046_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0046_bob.pcap,"chanspec: 0x1006, 6
+",1,0,0.247659683,D20221018_T0046,D20221018_T0047,D20221018_T0047,13.72399449,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0051_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0051_bob.pcap,"chanspec: 0x1006, 6
+",1,0,0.247565746,D20221018_T0051,D20221018_T0051,D20221018_T0051,13.71146631,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0052_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0052_bob.pcap,"chanspec: 0x1006, 6
+",1,0,0.23922801,D20221018_T0052,D20221018_T0052,D20221018_T0052,13.69176078,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0054_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0054_bob.pcap,"chanspec: 0x1006, 6
+",1,0,0.365490198,D20221018_T0054,D20221018_T0054,D20221018_T0054,13.83690405,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0056_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0056_bob.pcap,"chanspec: 0x1006, 6
+",1,0,0.416608572,D20221018_T0056,D20221018_T0056,D20221018_T0056,13.84174967,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0059_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0059_bob.pcap,"chanspec: 0x1006, 6
+",10,2,3.396556616,D20221018_T0059,D20221018_T0100,D20221018_T0100,16.86101913,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0102_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0102_bob.pcap,"chanspec: 0x1006, 6
+",10,0,2.674371481,D20221018_T0102,D20221018_T0102,D20221018_T0102,16.15282893,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0106_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0106_bob.pcap,"chanspec: 0x1006, 6
+",10,0,2.805242062,D20221018_T0106,D20221018_T0107,D20221018_T0107,16.27240586,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0110_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0110_bob.pcap,"chanspec: 0x1006, 6
+",10,0,3.083184004,D20221018_T0110,D20221018_T0110,D20221018_T0110,16.61436319,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.05,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0118_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0118_bob.pcap,"chanspec: 0x1006, 6
+",10,1,2.449737549,D20221018_T0118,D20221018_T0118,D20221018_T0118,15.87645316,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0119_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0119_bob.pcap,"chanspec: 0x1006, 6
+",10,0,1.209171534,D20221018_T0119,D20221018_T0119,D20221018_T0119,14.65224719,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0135_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0135_bob.pcap,"chanspec: 0x1006, 6
+",10,4,1.863524914,D20221018_T0135,D20221018_T0135,D20221018_T0135,22.1578722,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0135_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.03,0.01,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0142_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0142_bob.pcap,"chanspec: 0x1006, 6
+",10,0,1.357645512,D20221018_T0142,D20221018_T0142,D20221018_T0142,22.06620979,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0142_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.01,0.005,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0147_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0147_bob.pcap,"chanspec: 0x1006, 6
+",10,0,0.876313925,D20221018_T0147,D20221018_T0148,D20221018_T0148,21.52510333,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0147_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.001,bob,6,20,0.4,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0152_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0152_bob.pcap,"chanspec: 0x1006, 6
+",10,3,0.937197208,D20221018_T0152,D20221018_T0152,D20221018_T0152,21.7271235,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0152_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.002,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0158_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0158_bob.pcap,"chanspec: 0x1006, 6
+",10,1,0.804736137,D20221018_T0158,D20221018_T0158,D20221018_T0158,21.31159377,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0158_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.002,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0206_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0206_bob.pcap,"chanspec: 0x1006, 6
+",10,0,0.778159618,D20221018_T0206,D20221018_T0206,D20221018_T0206,21.31392574,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0206_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.003,bob,6,20,0.02,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0211_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0211_bob.pcap,"chanspec: 0x1006, 6
+",10,1,0.772810936,D20221018_T0211,D20221018_T0211,D20221018_T0211,21.25846839,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0211_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.003,bob,6,20,0.08,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0214_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0214_bob.pcap,"chanspec: 0x1006, 6
+",10,2,0.843946457,D20221018_T0214,D20221018_T0215,D20221018_T0215,21.36895871,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0214_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.003,bob,6,20,0.08,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0219_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0219_bob.pcap,"chanspec: 0x1006, 6
+",10,2,0.8939991,D20221018_T0219,D20221018_T0219,D20221018_T0219,21.44729471,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0219_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.003,bob,6,20,0.08,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0225_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0225_bob.pcap,"chanspec: 0x1006, 6
+",10,11,1.379546165,D20221018_T0225,D20221018_T0225,D20221018_T0225,22.28179336,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0225_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.8,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0227_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0227_bob.pcap,"chanspec: 0x1006, 6
+",0,0,0.526222944,D20221018_T0227,D20221018_T0228,D20221018_T0228,21.04789019,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0227_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.8,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0310_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0310_bob.pcap,"chanspec: 0x1006, 6
+",0,0,1.892568827,D20221018_T0310,D20221018_T0310,D20221018_T0310,22.92437458,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0310_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.005,bob,6,20,0.8,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0319_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0319_bob.pcap,"chanspec: 0x1006, 6
+",0,0,1.521587372,D20221018_T0319,D20221018_T0320,D20221018_T0320,22.5212028,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0319_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.005,bob,6,20,0.8,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0322_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0322_bob.pcap,"chanspec: 0x1006, 6
+",10,13,3.478043318,D20221018_T0322,D20221018_T0323,D20221018_T0323,24.19550133,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0322_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0323_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0323_bob.pcap,"chanspec: 0x1006, 6
+",0,0,0.743386507,D20221018_T0323,D20221018_T0324,D20221018_T0324,21.4922812,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0323_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0327_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0327_bob.pcap,"chanspec: 0x1006, 6
+",0,0,0.715263367,D20221018_T0327,D20221018_T0327,D20221018_T0327,21.45991421,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0327_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.01,bob,6,20,0.5,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0331_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0331_bob.pcap,"chanspec: 0x1006, 6
+",10,3,2.087881327,D20221018_T0331,D20221018_T0332,D20221018_T0332,22.83562112,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0331_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.02,0.01,bob,6,20,0.5,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0332_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0332_bob.pcap,"chanspec: 0x1006, 6
+",9,13,2.195455551,D20221018_T0332,D20221018_T0332,D20221018_T0332,22.90107465,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0332_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.02,0.01,bob,6,20,0.5,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0337_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0337_bob.pcap,"chanspec: 0x1006, 6
+",10,34,4.169650555,D20221018_T0337,D20221018_T0338,D20221018_T0338,24.96745276,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0337_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.04,0.005,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0341_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0341_bob.pcap,"chanspec: 0x1006, 6
+",0,0,1.092349291,D20221018_T0341,D20221018_T0341,D20221018_T0341,21.74272442,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0341_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.04,0.005,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0344_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0344_bob.pcap,"chanspec: 0x1006, 6
+",10,24,4.432018995,D20221018_T0344,D20221018_T0344,D20221018_T0344,25.25675845,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0344_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0346_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0346_bob.pcap,"chanspec: 0x1006, 6
+",3,14,1.611793995,D20221018_T0346,D20221018_T0347,D20221018_T0347,22.33362722,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0346_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.9,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0347_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0347_bob.pcap,"chanspec: 0x1006, 6
+",0,0,1.086647749,D20221018_T0347,D20221018_T0348,D20221018_T0348,21.83097053,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0347_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.9,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0351_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0351_bob.pcap,"chanspec: 0x1006, 6
+",1,1,2.776872873,D20221018_T0351,D20221018_T0351,D20221018_T0352,23.50702596,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0351_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.9,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0355_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0355_bob.pcap,"chanspec: 0x1006, 6
+",10,0,1.061277866,D20221018_T0355,D20221018_T0355,D20221018_T0355,21.80921078,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0355_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.005,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0357_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0357_bob.pcap,"chanspec: 0x1006, 6
+",10,0,0.82501936,D20221018_T0357,D20221018_T0357,D20221018_T0357,21.49194336,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0357_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.06,0.003,bob,6,20,0.15,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0359_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0359_bob.pcap,"chanspec: 0x1006, 6
+",10,5,2.819497824,D20221018_T0359,D20221018_T0359,D20221018_T0359,23.55705738,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0359_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.06,0.003,bob,6,20,0.15,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0400_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0400_bob.pcap,"chanspec: 0x1006, 6
+",10,1,2.853217125,D20221018_T0400,D20221018_T0400,D20221018_T0400,23.57519817,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0400_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.003,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0401_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0401_bob.pcap,"chanspec: 0x1006, 6
+",10,2,2.372397661,D20221018_T0401,D20221018_T0401,D20221018_T0401,23.0806036,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221018_T0401_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0,0.003,bob,6,20,0.1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221022_T2254_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221022_T2254_bob.pcap,"chanspec: 0x1006, 6
+",10,1,2.038594007,D20221022_T2254,D20221022_T2254,D20221022_T2254,22.85974765,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221022_T2254_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221022_T2323_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221022_T2323_bob.pcap,"chanspec: 0x1006, 6
+",0,0,4.168906212,D20221022_T2323,D20221022_T2323,D20221022_T2323,24.33369184,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221022_T2323_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0531_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0531_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.784494877,D20221023_T0531,D20221023_T0532,D20221023_T0532,23.98378706,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0531_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0533_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0533_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.869118452,D20221023_T0533,D20221023_T0534,D20221023_T0534,24.07306194,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0533_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.2,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0537_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0537_bob.pcap,"chanspec: 0x1006, 6
+",10,4,3.91652441,D20221023_T0537,D20221023_T0538,D20221023_T0538,17.34313726,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.5,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0539_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0539_bob.pcap,"chanspec: 0x1006, 6
+",10,6,4.616541624,D20221023_T0539,D20221023_T0539,D20221023_T0539,18.06742001,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,0.5,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0545_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0545_bob.pcap,"chanspec: 0x1006, 6
+",10,7,4.933170795,D20221023_T0545,D20221023_T0545,D20221023_T0545,18.40737152,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0551_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0551_bob.pcap,"chanspec: 0x1006, 6
+",10,5,4.170820951,D20221023_T0551,D20221023_T0551,D20221023_T0551,17.6641624,,,,,0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0554_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0554_bob.pcap,"chanspec: 0x1006, 6
+",10,6,4.765919447,D20221023_T0554,D20221023_T0554,D20221023_T0554,24.98624301,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0554_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0600_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0600_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.867304325,D20221023_T0600,D20221023_T0601,D20221023_T0601,24.06800342,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0600_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0605_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0605_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.905300856,D20221023_T0605,D20221023_T0606,D20221023_T0606,24.11912966,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0605_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0608_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0608_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.99113965,D20221023_T0608,D20221023_T0608,D20221023_T0608,24.21881318,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0608_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,10,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0613_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0613_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.918020248,D20221023_T0613,D20221023_T0613,D20221023_T0613,24.09182405,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0613_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0617_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0617_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.862598181,D20221023_T0617,D20221023_T0617,D20221023_T0617,24.09746146,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0617_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0619_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0619_bob.pcap,"chanspec: 0x1006, 6
+",300,78,108.3199153,D20221023_T0619,D20221023_T0619,D20221023_T0621,128.5778596,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0619_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0641_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0641_bob.pcap,"chanspec: 0x1006, 6
+",300,67,106.8043182,D20221023_T0641,D20221023_T0642,D20221023_T0643,126.9913116,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0641_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0648_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0648_bob.pcap,"chanspec: 0x1006, 6
+",300,44,99.20347738,D20221023_T0648,D20221023_T0648,D20221023_T0650,119.4410939,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0648_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0651_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0651_bob.pcap,"chanspec: 0x1006, 6
+",0,0,3.913053751,D20221023_T0651,D20221023_T0651,D20221023_T0651,24.11433268,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0651_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0652_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0652_bob.pcap,"chanspec: 0x1006, 6
+",300,69,106.8326769,D20221023_T0652,D20221023_T0652,D20221023_T0654,127.0220637,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0652_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0654_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0654_bob.pcap,"chanspec: 0x1006, 6
+",300,67,105.9546013,D20221023_T0654,D20221023_T0655,D20221023_T0657,126.1913037,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0654_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,380,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0658_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0658_bob.pcap,"chanspec: 0x1006, 6
+",300,56,101.3400106,D20221023_T0658,D20221023_T0658,D20221023_T0700,121.5555365,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0658_eve.pcap,"chanspec: 0x1006, 6
+",0,150,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0702_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0702_bob.pcap,"chanspec: 0x1006, 6
+",300,75,110.974879,D20221023_T0702,D20221023_T0702,D20221023_T0704,131.3794608,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0702_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0705_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0705_bob.pcap,"chanspec: 0x1006, 6
+",300,113,123.4105902,D20221023_T0705,D20221023_T0705,D20221023_T0707,143.816031,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0705_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0708_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0708_bob.pcap,"chanspec: 0x1006, 6
+",300,103,118.3378518,D20221023_T0708,D20221023_T0708,D20221023_T0710,138.5857024,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0708_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0720_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0720_bob.pcap,"chanspec: 0x1006, 6
+",300,121,125.1227715,D20221023_T0720,D20221023_T0720,D20221023_T0722,145.4237564,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0720_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,190,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0724_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0724_bob.pcap,"chanspec: 0x1006, 6
+",300,76,107.8345683,D20221023_T0724,D20221023_T0724,D20221023_T0726,128.0437627,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221023_T0724_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,190,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0549_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0549_bob.pcap,"chanspec: 0x1006, 6
+",50,3,14.6016109,D20221130_T0549,D20221130_T0549,D20221130_T0549,34.82784009,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0549_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,190,5,0,0.08,0.06,bob,6,20,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0552_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0552_bob.pcap,"chanspec: 0x1006, 6
+",300,19,89.82141995,D20221130_T0552,D20221130_T0552,D20221130_T0554,110.0584533,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0552_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,36,40,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0629_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0629_bob.pcap,"chanspec: 0xd826, 36l
+",300,124,125.5232425,D20221130_T0629,D20221130_T0629,D20221130_T0632,145.7961864,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0629_eve.pcap,"chanspec: 0xd826, 36l
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,36,40,1,10,300,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0959_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0959_bob.pcap,"chanspec: 0xd826, 36l
+",300,78,107.2151849,D20221130_T0959,D20221130_T0959,D20221130_T1001,127.4275105,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221130_T0959_eve.pcap,"chanspec: 0xd826, 36l
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1641_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1641_bob.pcap,"nex_init_netlink: socket error (93: Protocol not supported)
+nex_init_netlink: socket error (93: Protocol not supported)
+nex_init_netlink: bind error (9: Bad file descriptor)
+nex_init_netlink: connect error (9: Bad file descriptor)
+ERR (__nex_driver_netlink): no valid answer received
+chanspec: 0x6863, 85/160
+",0,0,3.735113382,D20221210_T1641,D20221210_T1641,D20221210_T1641,24.08339024,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1641_eve.pcap,"chanspec: 0xd826, 36l
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1643_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1643_bob.pcap,"chanspec: 0xd826, 36l
+",300,96,118.7344747,D20221210_T1643,D20221210_T1643,D20221210_T1645,139.0499928,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1643_eve.pcap,"chanspec: 0xd826, 36l
+",0,180,0
+0,0,0,0,0,290,5,0,0.08,0.06,bob,6,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1647_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1647_bob.pcap,"chanspec: 0xd826, 36l
+",300,75,111.6286929,D20221210_T1647,D20221210_T1648,D20221210_T1650,131.7899084,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1647_eve.pcap,"chanspec: 0xd826, 36l
+",0,180,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1730_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1730_bob.pcap,"chanspec: 0x1006, 6
+",300,45,100.9155445,D20221210_T1730,D20221210_T1730,D20221210_T1732,121.1548178,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1730_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,6,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1738_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1738_bob.pcap,"chanspec: 0x1006, 6
+",300,42,102.2991018,D20221210_T1738,D20221210_T1738,D20221210_T1740,122.5578113,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1738_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,157,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1852_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1852_bob.pcap,"chanspec: 0x1006, 6
+",300,16,90.55269122,D20221210_T1852,D20221210_T1852,D20221210_T1854,110.8077781,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1852_eve.pcap,"chanspec: 0x1006, 6
+",0,180,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,157,80,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1902_alice.pcap,"chanspec: 0xe29b, 157/80
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1902_bob.pcap,"chanspec: 0xe29b, 157/80
+",0,0,3.903577566,D20221210_T1902,D20221210_T1902,D20221210_T1902,24.16825342,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1902_eve.pcap,"chanspec: 0xe29b, 157/80
+",0,180,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1904_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1904_bob.pcap,"chanspec: 0xd826, 36l
+",300,8,87.75217938,D20221210_T1904,D20221210_T1904,D20221210_T1906,108.0346622,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T1904_eve.pcap,"chanspec: 0xd826, 36l
+",0,180,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2057_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2057_bob.pcap,"chanspec: 0x1006, 6
+",300,15,89.15425396,D20221210_T2057,D20221210_T2058,D20221210_T2059,109.4861386,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2057_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2121_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2121_bob.pcap,"chanspec: 0x1006, 6
+",300,15,90.43686628,D20221210_T2121,D20221210_T2122,D20221210_T2123,110.6696436,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2121_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2124_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2124_bob.pcap,"chanspec: 0x1006, 6
+",300,8,87.57261038,D20221210_T2124,D20221210_T2124,D20221210_T2125,107.8205085,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2124_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2126_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2126_bob.pcap,"chanspec: 0x1006, 6
+",300,9,88.24685192,D20221210_T2126,D20221210_T2126,D20221210_T2128,108.501683,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2126_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2128_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2128_bob.pcap,"chanspec: 0xd826, 36l
+",300,4,85.71271896,D20221210_T2128,D20221210_T2128,D20221210_T2130,105.9836752,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2128_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2130_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2130_bob.pcap,"chanspec: 0xd826, 36l
+",300,7,87.73473263,D20221210_T2130,D20221210_T2130,D20221210_T2132,107.9802639,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2130_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,50,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2133_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2133_bob.pcap,"chanspec: 0xd826, 36l
+",300,10,89.42350554,D20221210_T2133,D20221210_T2133,D20221210_T2134,109.740804,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2133_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2135_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2135_bob.pcap,"chanspec: 0x1006, 6
+",300,11,89.23334217,D20221210_T2135,D20221210_T2136,D20221210_T2137,109.525296,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2135_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2138_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2138_bob.pcap,"chanspec: 0x1006, 6
+",300,7,87.64719081,D20221210_T2138,D20221210_T2138,D20221210_T2140,107.9058867,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2138_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2140_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2140_bob.pcap,"chanspec: 0x1006, 6
+",300,6,88.95273161,D20221210_T2140,D20221210_T2140,D20221210_T2142,109.2004836,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2140_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2143_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2143_bob.pcap,"chanspec: 0xd826, 36l
+",300,2,91.57931948,D20221210_T2143,D20221210_T2143,D20221210_T2144,111.9081061,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2143_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2145_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2145_bob.pcap,"chanspec: 0xd826, 36l
+",300,3,90.12491441,D20221210_T2145,D20221210_T2145,D20221210_T2147,110.3799748,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2145_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,100,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2147_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2147_bob.pcap,"chanspec: 0xd826, 36l
+",300,7,87.52941442,D20221210_T2147,D20221210_T2147,D20221210_T2149,107.7766526,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2147_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2341_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2341_bob.pcap,"chanspec: 0x1006, 6
+",300,8,86.28210282,D20221210_T2341,D20221210_T2342,D20221210_T2343,106.5191524,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2341_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2343_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2343_bob.pcap,"chanspec: 0x1006, 6
+",300,7,85.72047353,D20221210_T2343,D20221210_T2344,D20221210_T2345,105.934134,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2343_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2346_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2346_bob.pcap,"chanspec: 0x1006, 6
+",300,15,88.26258063,D20221210_T2346,D20221210_T2346,D20221210_T2348,108.4591987,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2346_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2348_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2348_bob.pcap,"chanspec: 0xd826, 36l
+",300,13,86.30814743,D20221210_T2348,D20221210_T2348,D20221210_T2350,106.5026855,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2348_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2350_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2350_bob.pcap,"chanspec: 0xd826, 36l
+",300,8,85.01228786,D20221210_T2350,D20221210_T2351,D20221210_T2352,105.409817,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2350_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,150,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2352_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2352_bob.pcap,"chanspec: 0xd826, 36l
+",300,10,84.97698188,D20221210_T2352,D20221210_T2353,D20221210_T2354,105.2612967,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2352_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,200,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2355_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2355_bob.pcap,"chanspec: 0x1006, 6
+",300,15,91.00330281,D20221210_T2355,D20221210_T2356,D20221210_T2357,111.3983903,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2355_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,200,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2358_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2358_bob.pcap,"chanspec: 0x1006, 6
+",300,17,90.8729496,D20221210_T2358,D20221210_T2358,D20221210_T2359,111.0998304,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221210_T2358_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,200,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0000_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0000_bob.pcap,"chanspec: 0x1006, 6
+",300,23,90.81207013,D20221211_T0000,D20221211_T0000,D20221211_T0002,111.2900047,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0000_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,200,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0002_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0002_bob.pcap,"chanspec: 0xd826, 36l
+",300,6,86.72254777,D20221211_T0002,D20221211_T0003,D20221211_T0004,106.9654925,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0002_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,200,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0005_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0005_bob.pcap,"chanspec: 0xd826, 36l
+",300,5,83.19121385,D20221211_T0005,D20221211_T0005,D20221211_T0006,103.4304156,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0005_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,200,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0007_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0007_bob.pcap,"chanspec: 0xd826, 36l
+",300,17,89.88855982,D20221211_T0007,D20221211_T0007,D20221211_T0008,110.1473892,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0007_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0009_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0009_bob.pcap,"chanspec: 0x1006, 6
+",300,15,91.26591563,D20221211_T0009,D20221211_T0010,D20221211_T0011,111.586591,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0009_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0012_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0012_bob.pcap,"chanspec: 0x1006, 6
+",300,17,90.85593247,D20221211_T0012,D20221211_T0012,D20221211_T0014,111.1846967,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0012_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0014_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0014_bob.pcap,"chanspec: 0x1006, 6
+",300,9,87.57734919,D20221211_T0014,D20221211_T0015,D20221211_T0016,107.8105659,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0014_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0017_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0017_bob.pcap,"chanspec: 0x1006, 6
+",300,20,91.59242296,D20221211_T0017,D20221211_T0017,D20221211_T0019,111.8259063,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0017_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0019_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0019_bob.pcap,"chanspec: 0xd826, 36l
+",300,9,85.95380235,D20221211_T0019,D20221211_T0020,D20221211_T0021,106.2683954,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0019_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0022_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0022_bob.pcap,"chanspec: 0xd826, 36l
+",300,14,87.2841804,D20221211_T0022,D20221211_T0022,D20221211_T0023,107.4989893,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0022_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,250,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0024_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0024_bob.pcap,"chanspec: 0xd826, 36l
+",300,23,91.6952157,D20221211_T0024,D20221211_T0024,D20221211_T0026,112.0546219,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0024_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0027_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0027_bob.pcap,"chanspec: 0x1006, 6
+",300,28,93.1520977,D20221211_T0027,D20221211_T0027,D20221211_T0029,113.4547043,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0027_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0029_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0029_bob.pcap,"chanspec: 0x1006, 6
+",300,16,88.93870306,D20221211_T0029,D20221211_T0029,D20221211_T0031,109.1608937,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0029_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0032_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0032_bob.pcap,"chanspec: 0x1006, 6
+",300,19,91.09557414,D20221211_T0032,D20221211_T0032,D20221211_T0033,111.3698919,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0032_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0034_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0034_bob.pcap,"chanspec: 0xd826, 36l
+",300,34,96.65779448,D20221211_T0034,D20221211_T0035,D20221211_T0036,116.9024608,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0034_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0037_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0037_bob.pcap,"chanspec: 0xd826, 36l
+",300,45,99.98733735,D20221211_T0037,D20221211_T0038,D20221211_T0039,120.2197869,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0037_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0040_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0040_bob.pcap,"chanspec: 0xd826, 36l
+",300,24,91.49012804,D20221211_T0040,D20221211_T0040,D20221211_T0042,111.7204614,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0040_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,36,80,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0157_alice.pcap,"chanspec: 0xe02a, 36/80
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0157_bob.pcap,"chanspec: 0xe02a, 36/80
+",0,0,3.844494104,D20221211_T0157,D20221211_T0158,D20221211_T0158,24.0405004,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0157_eve.pcap,"chanspec: 0xe02a, 36/80
+",0,100,0
+0,0,0,0,0,300,5,0,0.08,0.06,bob,157,80,1,10,300,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0915_alice.pcap,"chanspec: 0xe29b, 157/80
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0915_bob.pcap,"chanspec: 0xe29b, 157/80
+",0,0,3.928044081,D20221211_T0915,D20221211_T0916,D20221211_T0916,24.19562173,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20221211_T0915_eve.pcap,"chanspec: 0xe29b, 157/80
+",0,100,0
+0,0,0,0,0,350,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0642_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0642_bob.pcap,"chanspec: 0x1006, 6
+",300,16,81.83989859,D20230129_T0642,D20230129_T0643,D20230129_T0644,102.1089253,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0642_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,350,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0657_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0657_bob.pcap,"chanspec: 0x1006, 6
+",300,22,85.26920772,D20230129_T0657,D20230129_T0657,D20230129_T0659,105.4290931,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0657_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,350,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0659_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0659_bob.pcap,"chanspec: 0x1006, 6
+",300,21,84.31220675,D20230129_T0659,D20230129_T0659,D20230129_T0701,104.442817,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0659_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,400,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0701_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0701_bob.pcap,"chanspec: 0x1006, 6
+",300,22,83.5747757,D20230129_T0701,D20230129_T0701,D20230129_T0703,103.7342937,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0701_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,400,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0703_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0703_bob.pcap,"chanspec: 0x1006, 6
+",300,16,81.5520432,D20230129_T0703,D20230129_T0703,D20230129_T0705,101.7046905,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0703_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,400,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0705_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0705_bob.pcap,"chanspec: 0x1006, 6
+",300,9,79.69704151,D20230129_T0705,D20230129_T0705,D20230129_T0707,99.85931754,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0705_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,500,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0707_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0707_bob.pcap,"chanspec: 0x1006, 6
+",300,9,79.89835072,D20230129_T0707,D20230129_T0707,D20230129_T0709,100.0459492,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0707_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,500,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0709_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0709_bob.pcap,"chanspec: 0x1006, 6
+",300,22,84.2466464,D20230129_T0709,D20230129_T0709,D20230129_T0711,104.4339411,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0709_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,500,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0711_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0711_bob.pcap,"chanspec: 0x1006, 6
+",300,24,84.38876534,D20230129_T0711,D20230129_T0711,D20230129_T0713,104.5712063,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0711_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,600,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0718_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0718_bob.pcap,"chanspec: 0x1006, 6
+",300,20,83.20029354,D20230129_T0718,D20230129_T0718,D20230129_T0720,103.409292,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0718_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,600,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0720_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0720_bob.pcap,"chanspec: 0x1006, 6
+",300,26,86.05400634,D20230129_T0720,D20230129_T0721,D20230129_T0722,106.2389612,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0720_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,600,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0723_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0723_bob.pcap,"chanspec: 0x1006, 6
+",300,26,85.70457053,D20230129_T0723,D20230129_T0723,D20230129_T0724,105.8821239,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0723_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,600,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0901_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0901_bob.pcap,"chanspec: 0x1006, 6
+",300,21,84.17592168,D20230129_T0901,D20230129_T0901,D20230129_T0903,104.3437595,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0901_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,900,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0928_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0928_bob.pcap,"chanspec: 0x1006, 6
+",300,181,136.7771432,D20230129_T0928,D20230129_T0928,D20230129_T0931,156.9430039,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0928_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,900,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0931_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0931_bob.pcap,"chanspec: 0x1006, 6
+",300,186,138.0649037,D20230129_T0931,D20230129_T0932,D20230129_T0934,158.2063727,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0931_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,900,5,0,0.08,0.06,bob,6,20,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0934_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0934_bob.pcap,"chanspec: 0x1006, 6
+",300,135,122.0845826,D20230129_T0934,D20230129_T0935,D20230129_T0937,142.246058,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0934_eve.pcap,"chanspec: 0x1006, 6
+",0,100,0
+0,0,0,0,0,900,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0940_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0940_bob.pcap,"chanspec: 0xd826, 36l
+",300,108,113.5799975,D20230129_T0940,D20230129_T0940,D20230129_T0942,133.731158,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0940_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,600,5,0,0.08,0.06,bob,36,40,1,10,300,pi41NexmonCsi,192.168.1.53,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0942_alice.pcap,"chanspec: 0xd826, 36l
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0942_bob.pcap,"chanspec: 0xd826, 36l
+",300,133,121.6371069,D20230129_T0942,D20230129_T0943,D20230129_T0945,141.7876494,pi43NexmonCsi,192.168.1.69,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_ctrl_summary_D20230129_T0942_eve.pcap,"chanspec: 0xd826, 36l
+",0,100,0
+0,0,0,0,0,0,0,0,0.08,0.06,bob,6,20,1,,,pi41NexmonCsi,192.168.1.96,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_rkg_D20221017_T1911_alice.pcap,"chanspec: 0x1006, 6
+",pi40NexmonCsi,192.168.1.78,/home/pi/CSI_Extraction/nexmoncsita/software/outputs/csi_rkg_D20221017_T1911_bob.pcap,"chanspec: 0x1006, 6
+",,,,,,,,,,,,,,
